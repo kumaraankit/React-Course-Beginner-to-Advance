@@ -30,3 +30,4 @@ export const Jsx=()=>{
 // Why JSX
 // JSX produces react elements and helps in identigying error messages.
 // Javascript expression can be written in curly braces
+// Instead of artificially separating technologies by putting markup and logic in separate files, React separates concerns with loosely coupled units called “components” that contain both
