@@ -26,3 +26,7 @@ export const Jsx=()=>{
 //onclick---onClick
 //for---htmlFor
 //class---className
+
+// Why JSX
+// JSX produces react elements and helps in identigying error messages.
+// Javascript expression can be written in curly braces
